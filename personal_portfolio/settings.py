@@ -25,7 +25,7 @@ SECRET_KEY = '2jz54fpuzg$dp@_o(+ob0vx)31v*zv3)jt2p05o=u6l0cfmqno'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['esmeres.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.chris.ph']
 
 
 # Application definition
