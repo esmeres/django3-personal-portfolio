@@ -25,6 +25,8 @@ urlpatterns = [
     path("",views.home, name = 'home'),
     path('blog/', include('blog.urls')),
     path('generator/', include('generator.urls')),
+    path('utilities/', include('utilities.urls')),
+    path('todo/', include('todo.urls')),
 
 ]
 
